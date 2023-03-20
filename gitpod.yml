@@ -1,6 +1,3 @@
-vscode:
-  setttings:
-
 image:
   file: .gitpod.Dockerfile
 
